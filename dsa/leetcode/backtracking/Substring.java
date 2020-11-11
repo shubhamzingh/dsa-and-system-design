@@ -1,4 +1,4 @@
-package leetcode.backtracking;
+package dsa.leetcode.backtracking;
 
 // https://leetcode.com/problems/implement-strstr/
 public class Substring {
