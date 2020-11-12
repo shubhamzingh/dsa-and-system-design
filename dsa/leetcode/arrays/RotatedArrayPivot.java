@@ -1,4 +1,4 @@
-package leetcode.arrays;
+package dsa.leetcode.arrays;
 
 public class RotatedArrayPivot {
     public int search(int[] nums, int target) {

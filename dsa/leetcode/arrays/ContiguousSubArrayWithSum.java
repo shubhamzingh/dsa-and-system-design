@@ -1,4 +1,4 @@
-package practice.array;
+package dsa.leetcode.arrays;
 
 //https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
 public class ContiguousSubArrayWithSum {

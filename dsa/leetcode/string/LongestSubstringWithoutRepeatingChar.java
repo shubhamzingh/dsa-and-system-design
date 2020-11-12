@@ -1,4 +1,4 @@
-package leetcode.string;
+package dsa.leetcode.string;
 
 public class LongestSubstringWithoutRepeatingChar {
     public int lengthOfLongestSubstring(String s) {
