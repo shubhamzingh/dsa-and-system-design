@@ -1,0 +1,25 @@
+
+X	java:S125e"<This block of commented-out lines of code should be removed.(ãÆ£ã8½«Ò‚ù.
+D
+java:S1481{"'Remove this unused "pq" local variable.(ş¬ğæ8¿ä¢ù†/
+v
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(åß˜8Ç…Õø.
+S
+java:S1854{"6Remove this useless assignment to local variable "pq".(ş¬ğæ8¿ä¢ù†/
+T	java:S106_"9Replace this use of System.out or System.err by a logger.(æÏã<8¶çÒ‚ù.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.( ø®8çÁ÷ƒù.
+F
+java:S1659"$Declare "second" on a separate line.(«ğ™¼üÿÿÿÿ8ÓÄ¢Õø.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ŠÌñŠşÿÿÿÿ8ÓÄ¢Õø.
+Y
+java:S1854b"7Remove this useless assignment to local variable "prq".(ıÌøÓûÿÿÿÿ8½«Ò‚ù.
+N
+java:S1172"1Remove this unused method parameter "numOfItems".( ø®8Ç…Õø.
+]	java:S125Q"<This block of commented-out lines of code should be removed.(÷«ñªúÿÿÿÿ8ˆ¤õÕø.
+J
+java:S1481b"(Remove this unused "prq" local variable.(ıÌøÓûÿÿÿÿ8½«Ò‚ù.
+Q
+java:S1128"/Remove this unused import 'sun.misc.SoftCache'.(ŠÌñŠşÿÿÿÿ8ÓÄ¢Õø.
+]	java:S125"<This block of commented-out lines of code should be removed.(æ’ªÕøÿÿÿÿ8µ°Ñ‚ù.

@@ -1,0 +1,8 @@
+
+D
+java:S1125"(Remove the literal "true" boolean value.(äñ•Y8«¯œÊ€/
+F
+java:S1125")Remove the literal "false" boolean value.(¦éãÉ8Ğ£ÚÉ€/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ù‚Îìüÿÿÿÿ8Øº³È€/
+¤
+java:S2681 "†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(à´è8ØÊ€/

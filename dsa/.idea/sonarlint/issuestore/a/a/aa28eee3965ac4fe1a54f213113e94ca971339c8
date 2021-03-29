@@ -1,0 +1,35 @@
+
+L
+java:S5411+"*Use the primitive boolean expression here.(Í°“½şÿÿÿÿ8½‚¹†/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ8‚‰¹†/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8ğ¿×†/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿÊÁßúÿÿÿÿ8‚‰¹†/
+`
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(í•ÇŸùÿÿÿÿ8½‚¹†/
+r
+java:S1149)"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8½‚¹†/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ì´Ôıÿÿÿÿ8½‚¹†/
+K
+java:S1125+")Remove the literal "false" boolean value.(Í°“½şÿÿÿÿ8‚‰¹†/
+E
+java:S11256"(Remove the literal "true" boolean value.(éŞÃƒ8‚‰¹†/
+F
+java:S11259")Remove the literal "false" boolean value.(Ãœë©8‚‰¹†/
+X	java:S125"<This block of commented-out lines of code should be removed.(“´®å8‚‰¹†/
+X	java:S125I"<This block of commented-out lines of code should be removed.(ú¯8µÀ¿×†/
+X	java:S125G"<This block of commented-out lines of code should be removed.( ÓÄ8şú”Ñ†/
+E
+java:S1481D"(Remove this unused "arr" local variable.(Üê‚™8ÉŒÑ†/
+m
+java:S11494"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ğã°Ì8½‚¹†/
+G
+java:S54116"*Use the primitive boolean expression here.(éŞÃƒ8½‚¹†/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(íÉ”ñıÿÿÿÿ8‚‰¹†/
+T
+java:S1854D"7Remove this useless assignment to local variable "arr".(Üê‚™8ÉŒÑ†/
+]	java:S125E"<This block of commented-out lines of code should be removed.(ûÆ¨öùÿÿÿÿ8ÉŒÑ†/
+N
+java:S1172"1Remove this unused method parameter "numCourses".(Øßı°8‚‰¹†/
+G
+java:S54119"*Use the primitive boolean expression here.(Ãœë©8½‚¹†/

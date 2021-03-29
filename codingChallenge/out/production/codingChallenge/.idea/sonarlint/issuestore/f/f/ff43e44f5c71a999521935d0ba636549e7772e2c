@@ -1,0 +1,24 @@
+
+X
+java:S1854 "6Remove this useless assignment to local variable "hm".(‡êùıÿÿÿÿ8ô½şøû.
+W
+java:S1854":Remove this useless assignment to local variable "target".(è —”8ò‘øû.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(›åùœúÿÿÿÿ8şÄˆøû.
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÜÓöû.
+L
+java:S1172"*Remove this unused method parameter "arr".(ˆÑ¼ıÿÿÿÿ8ò‘øû.
+Y
+java:S1854"7Remove this useless assignment to local variable "max".(–¥†ıûÿÿÿÿ8ò‘øû.
+X	java:S125*"<This block of commented-out lines of code should be removed.(ºˆÛ©8øç¾ü.
+J
+java:S1481"(Remove this unused "max" local variable.(–¥†ıûÿÿÿÿ8ò‘øû.
+W	java:S125"<This block of commented-out lines of code should be removed.(ü¬×8ò‘øû.
+U
+java:S1197"8Move the array designator from the variable to the type.(¾ ï­8‡¿óôû.
+I
+java:S1481 "'Remove this unused "hm" local variable.(‡êùıÿÿÿÿ8ô½şøû.
+F
+java:S1659"$Declare "second" on a separate line.(«ğ™¼üÿÿÿÿ8¶Üôû.
+H
+java:S1481"+Remove this unused "target" local variable.(è —”8ò‘øû.

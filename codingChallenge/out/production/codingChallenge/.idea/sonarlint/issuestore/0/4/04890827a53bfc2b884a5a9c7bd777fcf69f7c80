@@ -1,0 +1,17 @@
+
+…
+java:S1104#"hMake totalChildrenPerSubComponent a static final constant or non-public and provide accessors if needed.(ôÛÍş8ÍÖŠÖ€/
+l
+java:S1104%"OMake max a static final constant or non-public and provide accessors if needed.(‘ªÏè8ÍÖŠÖ€/
+F
+java:S1444%")Make this "public static max" field final(‘ªÏè8ÍÖŠÖ€/
+a
+java:S1444$"?Make this "public static totalLinesPerSubComponent" field final(ÑÄùõùÿÿÿÿ8ÍÖŠÖ€/
+‡
+java:S1104$"eMake totalLinesPerSubComponent a static final constant or non-public and provide accessors if needed.(ÑÄùõùÿÿÿÿ8ÍÖŠÖ€/
+X	java:S125"<This block of commented-out lines of code should be removed.(ËÌîÏ8’Ö†Ö€/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(ïÃÎ¬8’Ö†Ö€/
+_
+java:S1444#"BMake this "public static totalChildrenPerSubComponent" field final(ôÛÍş8ÍÖŠÖ€/
+[
+java:S1155.">Use isEmpty() to check whether the collection is empty or not.(ñ“é8Êö¤Ó€/

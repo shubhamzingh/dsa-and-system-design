@@ -1,0 +1,13 @@
+
+V
+java:S49731"9Use the "equals" method if value comparison was intended.(¶ûØÔ8úŞ•Á€/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(úà€8Ä•øËù.
+u
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(çËÔ"8£öàÍù.
+h
+java:S1192B"FDefine a constant instead of duplicating this literal "Casey" 3 times.(ÁÆøàùÿÿÿÿ8Ä•øËù.
+h
+java:S1192@"FDefine a constant instead of duplicating this literal "Blake" 4 times.(­…£ƒúÿÿÿÿ8Ä•øËù.
+>
+java:S1116	"Remove this empty statement.(Œ×ú„øÿÿÿÿ8äääÊù.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£¯åÙ8ŒâÊù.
